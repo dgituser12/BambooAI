@@ -19,7 +19,7 @@ setup(
         'termcolor',
         'newspaper3k',
         'selenium',
-        'pinecone-client',
+        'pinecone',
         'sentence-transformers',
         'google-generativeai',
         'groq',
